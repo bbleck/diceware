@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/wordlist.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/wordlist.properties" />
+      <file value="file://$PROJECT_DIR$/src/wordlist2_es.properties" />
+      <base-name>wordlist</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/edu/cnm/deepdive/cryptography/wordlist_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/wordlist.properties" />
+      <base-name>wordlist</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
